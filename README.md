@@ -1,6 +1,6 @@
 # Responsive Website with Bootstrap
 
-This is a modern responsive website built using **HTML5**, **CSS3**, and **Bootstrap 5**. It demonstrates how to use Bootstrap's grid system and components to build fast and responsive layouts.
+This project is a modern responsive website built using **HTML5**, **CSS3**, and **Bootstrap 5**. It demonstrates how to use Bootstrap's grid system and components to build fast and responsive layouts.
 
 ## 🛠️ Technologies Used
 
